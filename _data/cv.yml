@@ -11,19 +11,17 @@
 - title: Education
   type: time_table
   contents:
-    - title: M.S. & Ph.D. integrated program
+    - title: M.S. & Ph.D. integrated program in Mathematical Sciences
       institution: KAIST, Daejeon, South Korea
-      year: 2019.03--Present
-      description: Mathematical Sciences
+      year: 2019.03-Present
       
     - title: Student Research Assistant
       institution: Center for Complex Geometry in IBS, Daejeon, South Korea
-      year: 2020.09--Present
+      year: 2020.09-Present
 
-    - title: B.S.
+    - title: B.S. in Mathematical Sciences
       institution: KAIST, Daejeon, South Korea
-      year: 2019.03--Present
-      description: Mathematical Sciences
+      year: 2014.03-2019.02.
 
 - title: Teaching
   type: nested_list
