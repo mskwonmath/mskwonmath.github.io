@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: bnt\#_at_kaist.ac.kr (Replace \# by 2080)
+subtitle: bnt2#8#_at_kaist.ac.kr (Replace # by 0 to get my e-mail address)
 
 profile:
   align: right
