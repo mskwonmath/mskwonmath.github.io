@@ -11,9 +11,10 @@
 - title: Affiliation
   type: time_table
   contents:
-    - title: M.S. & Ph.D. integrated program in <a href="https://mathsci.kaist.ac.kr/home/">Mathematical Sciences</a>
+    - title: Graduate Student of <a href="https://mathsci.kaist.ac.kr/home/">Dept. of Mathematical Sciences</a>
       institution: <a href="https://kaist.ac.kr/">KAIST</a>, Daejeon, South Korea
       year: 2019.03-
+      description: M.S. & Ph.D. integrated program
       
     - title: Student Research Assistant
       institution: <a href="https://ccg.ibs.re.kr">Center for Complex Geometry</a> in <a href="https://www.ibs.re.kr/eng.do">IBS</a>, Daejeon, South Korea
