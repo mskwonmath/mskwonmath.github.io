@@ -1,26 +1,29 @@
-- title: Full Name
+- title: General Information
   type: map
   contents:
-    - name: English
+    - name: Full Name in English
       value: Minseong Kwon
-    - name: Korean
-      value: 권민성
-    - name: Chinese character
-      value: 權玟成
+    - name: Full Name in Korean
+      value: 권민성 (權玟成)
+    - name: Related Websites
+      value: <a href="https://orcid.org/0009-0009-6567-3090">ORCID</a>, <a href="https://arxiv.org/a/0009-0009-6567-3090.html">arXiv</a>
+
+- title: Affiliation
+  type: time_table
+  contents:
+    - title: M.S. & Ph.D. integrated program in <a href="https://mathsci.kaist.ac.kr/home/">Mathematical Sciences</a>
+      institution: <a href="https://kaist.ac.kr/">KAIST</a>, Daejeon, South Korea
+      year: 2019.03-
+      
+    - title: Student Research Assistant
+      institution: <a href="https://ccg.ibs.re.kr">Center for Complex Geometry</a> in <a href="https://www.ibs.re.kr/eng.do">IBS</a>, Daejeon, South Korea
+      year: 2020.09-
 
 - title: Education
   type: time_table
   contents:
-    - title: M.S. & Ph.D. integrated program in Mathematical Sciences
-      institution: KAIST, Daejeon, South Korea
-      year: 2019.03-Present
-      
-    - title: Student Research Assistant
-      institution: Center for Complex Geometry in IBS, Daejeon, South Korea
-      year: 2020.09-Present
-
-    - title: B.S. in Mathematical Sciences
-      institution: KAIST, Daejeon, South Korea
+    - title: B.S. in <a href="https://mathsci.kaist.ac.kr/home/">Mathematical Sciences</a>
+      institution: <a href="https://kaist.ac.kr/">KAIST</a>, Daejeon, South Korea
       year: 2014.03-2019.02
 
 - title: Teaching
