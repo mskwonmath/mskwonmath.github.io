@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: bnt2#8#_at_kaist.ac.kr (Replace # by 0 to get my e-mail address)
+subtitle: bnt2*8*_at_kaist.ac.kr (Replace the stars by 0 to get my e-mail address)
 
 profile:
   align: right
