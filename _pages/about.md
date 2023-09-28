@@ -25,6 +25,6 @@ I am Minseong Kwon, a graduate student of [Dept. of Mathematical Sciences](https
 
 My research area is complex geometry and algebraic geometry. More specifically, I am interested in
 
-* twistor spaces of quaternionic Kahler manifolds;
-* rational curves in projective manifolds; and
+* twistor spaces of quaternionic Kähler manifolds;
+* deformation theory of rational curves in projective manifolds; and
 * algebraic varieties with large symmetry, including spherical varieties.
