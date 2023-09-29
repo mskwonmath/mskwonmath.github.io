@@ -9,11 +9,9 @@ profile:
   image: 2019Seoul_blur.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>E6-1, Room 4419</p>
-    <p>291 Daehak-ro Yuseong-gu</p>
-    <p>Daejeon, South Korea</p>
+    <p>Photo at Gyeongbokgung Palace, Seoul in 2019</p>
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
@@ -27,4 +25,4 @@ My research area is complex geometry and algebraic geometry. More specifically, 
 
 * twistor spaces of quaternionic Kähler manifolds;
 * deformation theory of rational curves in projective manifolds; and
-* algebraic varieties with large symmetry, including spherical varieties.
+* algebraic varieties with large symmetry, especially spherical varieties.
