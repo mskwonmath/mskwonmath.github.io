@@ -6,7 +6,7 @@ subtitle: bnt2*8*_at_kaist.ac.kr (Replace the stars by 0 to get my e-mail addres
 
 profile:
   align: right
-  image: # prof_pic.jpg
+  image: 2019Seoul_blur.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>E6-1, Room 4419</p>
