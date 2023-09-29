@@ -11,7 +11,7 @@
 - title: Affiliation
   type: time_table
   contents:
-    - title: Graduate Student of <a href="https://mathsci.kaist.ac.kr/home/">Dept. of Mathematical Sciences</a>
+    - title: Graduate Student at <a href="https://mathsci.kaist.ac.kr/home/">Dept. of Mathematical Sciences</a>
       institution: <a href="https://kaist.ac.kr/">KAIST</a>, Daejeon, South Korea
       year: 2019.03-
       description: M.S. & Ph.D. integrated program
@@ -30,7 +30,7 @@
 - title: Teaching
   type: nested_list
   contents:
-    - title: Teaching Assistant of KAIST
+    - title: Teaching Assistant at KAIST
       items: 
         - Calculus (Spring 2019, Fall 2020, Spring 2021, Spring 2022)
         - Introduction to Linear Algebra (Fall 2019, Fall 2021)
