@@ -8,6 +8,7 @@ nav_order: 2
 ---
 
 # 2024
+* July 4, *KWMS Summer School 1: Complex geometry and related topics*, KIAS, Korea
 * Apr. 15, *Workshop on Geometry of Homogeneous Varieties*, IBS Center for Complex Geometry, Korea
 * Feb. 15, *Workshop on Fano spherical varieties*, Gyeongsang National University, Korea
 
