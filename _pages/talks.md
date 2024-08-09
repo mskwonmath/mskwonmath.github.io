@@ -16,4 +16,4 @@ nav_order: 2
 # 2023
 * Oct. 27, Special Session of *2023 KMS Annual Meeting*, Seoul National University, Korea
 * Sep. 12, Poster Session of *A Journey through Algebraic and Complex Geometry*, Buyeo, Korea
-* Aug. 7, Complex Geometry Seminar in *IBS Center for Complex Geometry*, Korea
+* Aug. 7, *Complex Geometry Seminar*, IBS Center for Complex Geometry, Korea
