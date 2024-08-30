@@ -30,4 +30,4 @@ My research area is complex geometry and algebraic geometry. More specifically, 
 Currently, I am working on
 * isotropy irreducible varieties and contact geometry (in preparation).
 
-Here is <a href="https://mskwonmath.github.io/assets/pdf/Curriculum%20Vitae_Minseong%20Kwon.pdf">my curriculum vitae</a>.
+Here is <a href="assets/pdf/Curriculum_Vitae_Minseong_Kwon.pdf">my curriculum vitae</a>.
