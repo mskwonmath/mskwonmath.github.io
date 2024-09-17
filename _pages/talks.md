@@ -8,6 +8,7 @@ nav_order: 2
 ---
 
 # 2024
+* Sep. 18, *Seminar (Algebra and geometry)*, Institut Fourier, France
 * Aug. 6, *Young Mathematicians Workshop on Several Complex Variables 2024*, Osaka Metropolitan University, Japan
 * July 4, *KWMS Summer School 1: Complex geometry and related topics*, KIAS, Korea
 * Apr. 15, *Workshop on Geometry of Homogeneous Varieties*, IBS Center for Complex Geometry, Korea
