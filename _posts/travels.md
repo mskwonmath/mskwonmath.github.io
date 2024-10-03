@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Travels"
+---
+# Visiting
+
+## 2024
+* École polytechnique – CMLS (Sep. 23-26), Palaiseau, France (Host: Nicolas Perrin)
+* Institut Fourier (Sep. 16-20), Grenoble, France (Host: Michel Brion)
+
+# Conferences and Workshops
+
+Here is the list of conferences and workshops where I have participated away from my institute (KAIST from Mar. 2019 to the present; IBS-CCG from Sep. 2020 to the present).
+
+## 2024
+* Twistors in Geometry & Physics (Sep. 9-13), Isaac Newton Institute for Mathematical Sciences, Cambridge, UK
+* Young Mathematicians Workshop on Several Complex Variables 2024 (Aug. 5-8), Osaka Metropolitan University, Osaka, Japan
+* Joint workshop on algebraic and complex geometry I (July 22-25), Busan National University, Busan, Korea
+* KWMS summer school 1 - Complex Geometry and related topics (July 2-5), KIAS, Seoul, Korea
+* Conference in memory of Jean-Pierre Demailly (June 3-7), Institut Fourier, Grenoble, France
+* 2024 KMS Spring Meeting (Apr. 18-20), Daejeon Convention Center & KAIST, Daejeon, Korea
+* Workshop on Fano spherical varieties - 2024 Spring (Feb. 14-17), Gyeongsang National University, Jinju, Korea
+
+## 2023
+* KNU Mathematics Intensive Lecture Series: Introduction to Toric Geometry (Oct. 16-Dec. 27), Kyungpook National University, Daegu, Korea
+* KMS Special Conference with 2022 Fields Medalists (Oct. 26-28), Seoul National University, Seoul, Korea
+* A Journey through Algebraic and Complex Geometry (Sep. 11-15), Buyeo, Korea
+* Exploring Algebraic Geometry & Topology (May 30-June 1), Yangpyeong, Korea
+* 2023 KMS Spring Meeting (Apr. 27-29), Daejeon Convention Center, Daejeon, Korea
+  
+## 2022
+* Conference on Complex Analysis, Complex Geometry and Dynamics in memory of Nessim Sibony (Dec. 5-9), Université Paris-Saclay, Orsay, France
