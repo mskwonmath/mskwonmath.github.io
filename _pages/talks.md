@@ -8,6 +8,7 @@ nav_order: 2
 ---
 
 # 2024
+* Oct. 26, Special Session of *2024 KMS Annual Meeting*, Sungkyunkwan University, Suwon, Korea
 * Sep. 25, *Seminar (Algebra and Arithmetic)*, École polytechnique - CMLS, Palaiseau, France
 * Sep. 18, *Seminar (Algebra and geometry)*, Institut Fourier, Grenoble, France
 * Aug. 6, *Young Mathematicians Workshop on Several Complex Variables 2024*, Osaka Metropolitan University, Osaka, Japan
