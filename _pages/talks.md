@@ -8,6 +8,7 @@ nav_order: 2
 ---
 
 # 2024
+* Nov. 21, *KMGS (Graduate Student Seminar)*, KAIST, Daejeon, Korea
 * Oct. 26, Special Session of *2024 KMS Annual Meeting*, Sungkyunkwan University, Suwon, Korea
 * Sep. 25, *Seminar (Algebra and Arithmetic)*, École polytechnique - CMLS, Palaiseau, France
 * Sep. 18, *Seminar (Algebra and geometry)*, Institut Fourier, Grenoble, France
