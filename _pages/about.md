@@ -28,6 +28,6 @@ My research area is complex geometry and algebraic geometry. More specifically, 
 * algebraic varieties with large symmetry, especially spherical varieties.
 
 Currently, I am working on
-* isotropy irreducible varieties and contact geometry (in preparation).
+* isotropy irreducible varieties and contact geometry (<a href="assets/pdf/Isotropy_Irreducible_Varieties_and_Contact_Geometry_of_Nilpotent_Orbits.pdf">in preparation</a>).
 
 Here is <a href="assets/pdf/Curriculum_Vitae_Minseong_Kwon.pdf">my curriculum vitae</a>.
