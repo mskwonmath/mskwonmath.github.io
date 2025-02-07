@@ -6,6 +6,8 @@ description: Research talks are listed.
 nav: true
 nav_order: 2
 ---
+# 2025
+* Feb. 4, *Workshop on Fano spherical varieties*, Yonsei University, Seoul, Korea
 
 # 2024
 * Nov. 21, *KMGS (Graduate Student Seminar)*, KAIST, Daejeon, Korea
