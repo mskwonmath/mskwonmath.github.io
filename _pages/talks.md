@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 ---
 # 2025
+* Apr. 26, Special Session of *2025 KMS Spring Meeting*, KAIST, Daejeon, Korea
 * Feb. 4, *Workshop on Fano spherical varieties*, Yonsei University, Seoul, Korea
 
 # 2024
