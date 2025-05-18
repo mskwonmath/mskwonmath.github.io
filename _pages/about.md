@@ -19,13 +19,12 @@ social: false  # includes social icons at the bottom of the page
 
 Welcome to my personal website!
 
-I am Minseong Kwon, a graduate student at [Dept. of Mathematical Sciences](https://mathsci.kaist.ac.kr/) in [KAIST](https://www.kaist.ac.kr/). I am also a student research assistant at [Center for Complex Geometry](https://ccg.ibs.re.kr/) in [IBS](https://www.ibs.re.kr/eng.do). My PhD advisor is Prof. <a href="https://www.ibs.re.kr/eng/sub02_02_03.do">Jun-Muk Hwang</a>.
+I am Minseong Kwon, a graduate student at [Dept. of Mathematical Sciences](https://mathsci.kaist.ac.kr/) in [KAIST](https://www.kaist.ac.kr/). I am also a student research assistant at [Center for Complex Geometry](https://ccg.ibs.re.kr/) in [IBS](https://www.ibs.re.kr/eng.do). My PhD advisor is Prof. <a href="https://www.ibs.re.kr/eng/sub02_02_03.do">Jun-Muk Hwang</a>. I am expected to receive my doctoral degree on August 15th, 2025.
 
 My research area is complex geometry and algebraic geometry. More specifically, I am interested in
-* twistor spaces of quaternionic Kähler manifolds;
-* complex contact geometry;
+* complex contact geometry of nilpotent orbits;
 * deformation theory of rational curves in complex manifolds; and
-* algebraic varieties with large symmetry, especially spherical varieties.
+* geometry of spherical varieties.
 
 Currently, I am working on
 * isotropy irreducible varieties and contact geometry (<a href="assets/pdf/preprint_2024.pdf">in preparation</a>).
