@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 ---
 # 2025
+* May 23, *2nd KIAS Graduate Student Meeting in Pure Mathematics*, KIAS, Seoul, Korea
 * Apr. 26, Special Session of *2025 KMS Spring Meeting*, KAIST, Daejeon, Korea
 * Feb. 4, *Workshop on Fano spherical varieties*, Yonsei University, Seoul, Korea
 
