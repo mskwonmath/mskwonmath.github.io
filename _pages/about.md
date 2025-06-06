@@ -23,12 +23,12 @@ I am Minseong Kwon, a graduate student at [Dept. of Mathematical Sciences](https
 
 My research area is complex geometry and algebraic geometry. More specifically, I am interested in
 * complex contact geometry of nilpotent orbits;
-* deformation theory of rational curves on complex manifolds; and
+* rational curves on complex manifolds; and
 * geometry of spherical varieties.
 
 The following papers are now in preparation:
-* Homogeneous Legendrian subvarieties of adjoint varieties (<a href="assets/pdf/preprint_2024.pdf">pdf</a> of an old version);
-* Conics on rational homogeneous spaces (with *[Nicolas Perrin](https://perso.pages.math.cnrs.fr/users/nicolas.perrin/)*); and
+* Homogeneous Legendrian subvarieties of adjoint varieties (<a href="assets/pdf/preprint_2024.pdf">pdf</a> of an old version).
+* Conics on rational homogeneous spaces (with *[Nicolas Perrin](https://perso.pages.math.cnrs.fr/users/nicolas.perrin/)*).
 * Hyperbolicity of adjoint linear systems on spherical varieties (with *[Haesong Seo](https://sites.google.com/view/haesongseo/home)*).
 
 Here is <a href="assets/pdf/Curriculum_Vitae_Minseong_Kwon.pdf">my curriculum vitae</a>.
