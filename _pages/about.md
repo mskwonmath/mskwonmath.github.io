@@ -27,7 +27,6 @@ My research area is complex geometry and algebraic geometry. More specifically, 
 * geometry of spherical varieties.
 
 The following papers are now in preparation:
-* Homogeneous Legendrian subvarieties of adjoint varieties (*<a href="assets/pdf/preprint_2024.pdf">pdf</a>* of an old version).
 * Conics on rational homogeneous spaces (with *[Nicolas Perrin](https://perso.pages.math.cnrs.fr/users/nicolas.perrin/)*).
 * Hyperbolicity of adjoint linear systems on spherical varieties (with *[Haesong Seo](https://sites.google.com/view/haesongseo/home)*).
 
