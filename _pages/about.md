@@ -9,7 +9,7 @@ profile:
   image: 2019Seoul_blur.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Photo at Gyeongbokgung, Seoul in 2019</p>
+    <p>Photo at 경복궁 (Gyeongbokgung), Seoul in 2019</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -30,4 +30,4 @@ The following papers are now in preparation:
 * Conics on rational homogeneous spaces (with *[Nicolas Perrin](https://perso.pages.math.cnrs.fr/users/nicolas.perrin/)*).
 * Hyperbolicity of adjoint linear systems on spherical varieties (with *[Haesong Seo](https://sites.google.com/view/haesongseo/home)*).
 
-Here is *[my curriculum vitae](https://mskwonmath.github.io/assets/pdf/Curriculum_Vitae_Minseong_Kwon.pdf)*.
+Here is *<a href="assets/pdf/Curriculum_Vitae_Minseong_Kwon.pdf" target="_blank">my curriculum vitae</a>*.
