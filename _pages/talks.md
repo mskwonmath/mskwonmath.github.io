@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 ---
 # 2025
+* Jul. 17, Algebraic-Analytic Geometry / Topology Session of *the 5th Korea-France Conference in Mathematics*, Institut de Mathématique de Bordeaux, Bordeaux, France
 * Apr. 26, Special Session of *2025 KMS Spring Meeting*, KAIST, Daejeon, Korea
 * Feb. 4, *Workshop on Fano spherical varieties*, Yonsei University, Seoul, Korea
 
