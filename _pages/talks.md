@@ -16,7 +16,7 @@ nav_order: 2
 * Sep. 25, *Seminar (Algebra and Arithmetic)*, École polytechnique - CMLS, Palaiseau, France
 * Sep. 18, *Seminar (Algebra and geometry)*, Institut Fourier, Grenoble, France
 * Aug. 6, *Young Mathematicians Workshop on Several Complex Variables 2024*, Osaka Metropolitan University, Osaka, Japan
-* July 4, *KWMS Summer School 1: Complex geometry and related topics*, KIAS, Seoul, Korea
+* Jul. 4, *KWMS Summer School 1: Complex geometry and related topics*, KIAS, Seoul, Korea
 * Apr. 15, *Workshop on Geometry of Homogeneous Varieties*, IBS Center for Complex Geometry, Daejeon, Korea
 * Feb. 15, *Workshop on Fano spherical varieties*, Gyeongsang National University, Jinju, Korea
 
