@@ -28,6 +28,6 @@ My research area is Lie-theoretic methods in complex geometry and in algebraic g
 
 The following papers are now in preparation:
 * Conics on rational homogeneous spaces with *[Nicolas Perrin](https://perso.pages.math.cnrs.fr/users/nicolas.perrin/)*.
-* Hyperbolicity of adjoint linear systems on spherical varieties with *[Haesong Seo (서해송)](https://sites.google.com/view/haesongseo/home)*.
+* Hyperbolicity of adjoint linear systems on spherical varieties with Haesong Seo.
 
 Here is *<a href="assets/pdf/Curriculum_Vitae_Minseong_Kwon.pdf" target="_blank">my curriculum vitae</a>*.
