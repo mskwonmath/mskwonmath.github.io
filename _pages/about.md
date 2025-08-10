@@ -16,8 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 latest_posts: false  # includes a list of the newest posts
 social: false  # includes social icons at the bottom of the page
 ---
+Welcome to the website of Minseong Kwon (권민성; 權玟成).
 
-I am Minseong Kwon (권민성; 權玟成), a graduate student at *[Dept. of Mathematical Sciences](https://mathsci.kaist.ac.kr/)* in *[KAIST](https://www.kaist.ac.kr/)*. I am also a student research assistant at *[Center for Complex Geometry](https://ccg.ibs.re.kr/)* in *[IBS](https://www.ibs.re.kr/eng.do)*. My Ph.D. advisor is Prof. *<a href="https://www.ibs.re.kr/eng/sub02_02_03.do">Jun-Muk Hwang (황준묵)</a>*. I defended my *[Ph.D. dissertation](https://mathsci.kaist.ac.kr/ko/schedule/scView.php?idx=-3577)* on April 3rd, 2025, and I am expected to receive my doctoral degree on August 15th, 2025.
+I am a graduate student at *[Dept. of Mathematical Sciences](https://mathsci.kaist.ac.kr/)* in *[KAIST](https://www.kaist.ac.kr/)*. I am also a student research assistant at *[Center for Complex Geometry](https://ccg.ibs.re.kr/)* in *[IBS](https://www.ibs.re.kr/eng.do)*. My Ph.D. advisor is Prof. *<a href="https://www.ibs.re.kr/eng/sub02_02_03.do">Jun-Muk Hwang (황준묵)</a>*. I defended my *[Ph.D. dissertation](https://mathsci.kaist.ac.kr/ko/schedule/scView.php?idx=-3577)* on April 3rd, 2025, and I am expected to receive my doctoral degree on August 15th, 2025.
 
 My research area is Lie-theoretic methods in complex geometry and in algebraic geometry. More specifically, I am interested in
 * complex contact geometry;
