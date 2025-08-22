@@ -12,24 +12,24 @@
     - name: Related Websites
       value: <a href="https://orcid.org/0009-0009-6567-3090">ORCID</a>, <a href="https://arxiv.org/a/0009-0009-6567-3090.html">arXiv</a>
 
-- title: Affiliation
+- title: Academic Positions
   type: time_table
   contents:
-    - title: Postdoctoral researcher
+    - title: Postdoctoral Researcher
       institution: <a href="https://www.gnu.ac.kr/math/main.do">Gyeongsang National University (경상국립대학교)</a>, Jinju, Korea
-      year: Sep. 2025 (Exp.)-
+      year: 2025.09-
 
 - title: Education
   type: time_table
   contents:
     - title: Graduate Student at <a href="https://mathsci.kaist.ac.kr/home/">Dept. of Mathematical Sciences</a>
       institution: <a href="https://kaist.ac.kr/">KAIST</a>, Daejeon, Korea
-      year: Mar. 2019-Aug. 2025
+      year: 2019.03-2025.08
       description: M.S. & Ph.D. integrated program
       
     - title: B.S. in <a href="https://mathsci.kaist.ac.kr/home/">Mathematical Sciences</a>
       institution: <a href="https://kaist.ac.kr/">KAIST</a>, Daejeon, Korea
-      year: Mar. 2014-Feb. 2019
+      year: 2014.03-2019.02
 
 - title: Teaching
   type: nested_list
