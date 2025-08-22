@@ -20,7 +20,7 @@ Welcome to the website of Minseong Kwon (권민성; 權玟成).
 
 I will be a postdoctral researcher at *[Gyeongsang National University (경상국립대학교)](https://www.gnu.ac.kr/math/main.do)* from September 2025, mentored by *[Kyeong-Dong Park (박경동)](https://sites.google.com/view/kdpark)*.
 
-I received my Ph.D. from *[KAIST](https://mathsci.kaist.ac.kr/)* in August 2025, under the supervision of *[Jun-Muk Hwang (황준묵)](https://www.ibs.re.kr/eng/sub02_02_03.do)*. (Thesis title: Parameter spaces of conics in adjoint varieties and Luna-Vust theory; 뤼나-뷔스트 이론의 관점으로 본 수반 다양체의 이차곡선 매개변수공간.)
+I received my Ph.D. from *[KAIST](https://mathsci.kaist.ac.kr/)* in August 2025, under the supervision of *[Jun-Muk Hwang (황준묵)](https://www.ibs.re.kr/eng/sub02_02_03.do)*. (Thesis title: Parameter spaces of conics in adjoint varieties and Luna-Vust theory.)
 
 My research area is Lie-theoretic methods in complex geometry and in algebraic geometry. More specifically, I am interested in
 * complex contact geometry;
