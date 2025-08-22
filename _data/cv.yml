@@ -22,10 +22,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: Graduate Student at <a href="https://mathsci.kaist.ac.kr/home/">Dept. of Mathematical Sciences</a>
+    - title: M.S. & Ph.D. integrated program in  <a href="https://mathsci.kaist.ac.kr/home/">Mathematical Sciences</a>
       institution: <a href="https://kaist.ac.kr/">KAIST</a>, Daejeon, Korea
       year: 2019.03-2025.08
-      description: M.S. & Ph.D. integrated program
       
     - title: B.S. in <a href="https://mathsci.kaist.ac.kr/home/">Mathematical Sciences</a>
       institution: <a href="https://kaist.ac.kr/">KAIST</a>, Daejeon, Korea
