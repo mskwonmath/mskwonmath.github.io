@@ -17,19 +17,19 @@
   contents:
     - title: Postdoctoral researcher
       institution: <a href="https://www.gnu.ac.kr/math/main.do">Gyeongsang National University (경상국립대학교)</a>, Jinju, Korea
-      year: 2025.09 (Exp.)-
+      year: Sep. 2025 (Exp.)-
 
 - title: Education
   type: time_table
   contents:
     - title: Graduate Student at <a href="https://mathsci.kaist.ac.kr/home/">Dept. of Mathematical Sciences</a>
       institution: <a href="https://kaist.ac.kr/">KAIST</a>, Daejeon, Korea
-      year: 2019.03-2025.08
+      year: Mar. 2019-Aug. 2025
       description: M.S. & Ph.D. integrated program
       
     - title: B.S. in <a href="https://mathsci.kaist.ac.kr/home/">Mathematical Sciences</a>
       institution: <a href="https://kaist.ac.kr/">KAIST</a>, Daejeon, Korea
-      year: 2014.03-2019.02
+      year: Mar. 2014-Feb. 2019
 
 - title: Teaching
   type: nested_list
