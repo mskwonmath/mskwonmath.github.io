@@ -29,5 +29,6 @@ My research area is Lie-theoretic methods in complex geometry and in algebraic g
 
 The following papers are now in preparation:
 * Conics on rational homogeneous spaces with *[Nicolas Perrin](https://perso.pages.math.cnrs.fr/users/nicolas.perrin/)*.
+* Automorphisms of horospherical varieties with *[Lorenzo Barban](https://sites.google.com/view/lorenzobarban/)* and *[DongSeon Hwang (황동선)](https://ccg.ibs.re.kr/members/)*.
 
 Here is *<a href="assets/pdf/Curriculum_Vitae_Minseong_Kwon.pdf" target="_blank">my curriculum vitae</a>*.
