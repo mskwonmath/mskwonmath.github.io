@@ -1,9 +1,9 @@
 - title: General Information
   type: map
   contents:
-    - name: Name (English)
+    - name: English Name
       value: Minseong Kwon
-    - name: Name (Korean)
+    - name: Korean Name
       value: 권민성 (權玟成)
     - name: E-mail
       value: bnt2*8*_at_kaist.ac.kr (Replace the stars by 0)
@@ -17,7 +17,7 @@
   contents:
     - title: Postdoctoral Researcher
       institution: <a href="https://www.gnu.ac.kr/math/main.do">Gyeongsang National University (경상국립대학교)</a>, Jinju, Korea
-      year: 2025.09-
+      year: 2025.09
 
 - title: Education
   type: time_table
