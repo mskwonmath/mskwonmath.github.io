@@ -7,6 +7,10 @@ nav: true
 nav_order: 2
 ---
 # 2025
+* Oct. 2, *Complex Geometry Seminar*, IBS Center for Complex Geometry, Daejeon, Korea
+* Sep. 30, *Seminar*, Gyeongsang National University, Jinju, Korea
+* Sep. 23, *Seminar*, Gyeongsang National University, Jinju, Korea
+* Sep. 22, *PNU Geometry and Topology Seminar*, Pusan National University, Busan, Korea
 * Aug. 21-22, *Seminar*, Gyeongsang National University, Jinju, Korea
 * Aug. 6, *Young Mathematician Workshop on Several Complex Variables 2025*, Beijing Normal University, Beijing, China
 * Jul. 17, Algebraic-Analytic Geometry / Topology Session of *the 5th Korea-France Conference in Mathematics*, Institut de Mathématique de Bordeaux, Bordeaux, France
