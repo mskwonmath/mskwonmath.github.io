@@ -7,8 +7,23 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
-<div class="publications">
+<!-- <div class="publications"> -->
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+<!-- {% bibliography -f {{ site.scholar.bibliography }} %} -->
 
-</div>
+<!-- </div> -->
+# Thesis
+* Minseong Kwon, *Parameter Spaces of Conics in Adjoint Varieties and Luna-Vust Theory*, Ph.D. Thesis, [KAIST](https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=1142956&se=t0&ty=B&_csrf=6574c1ac-5478-454e-95b7-cf69652264c1), August 2025.
+
+# Publications
+* 
+
+# Preprints
+* Minseong Kwon and [Haesong Seo](https://sites.google.com/view/haesongseo/home), *Algebraic hyperbolicity of adjoint linear systems on spherical varieties*, 2025, [arXiv:2508.09414](https://arxiv.org/abs/2508.09414).
+* Minseong Kwon, *Classification of Equivariant Legendrian Embeddings of Rational Homogeneous Spaces into Nilpotent Orbits*, 2025, [arXiv:2507.03932](https://arxiv.org/abs/2507.03932).
+* Minseong Kwon, *Spherical Geometry of Hilbert Schemes of Conics in Adjoint Varieties*, 2023, [arXiv:2309.13935](https://arxiv.org/abs/2309.13935).
+
+# In Preparation
+* Conics on rational homogeneous spaces with [Nicolas Perrin](https://perso.pages.math.cnrs.fr/users/nicolas.perrin/).
+* Automorphisms of horospherical varieties with [Lorenzo Barban](https://sites.google.com/view/lorenzobarban/) and [DongSeon Hwang](https://ccg.ibs.re.kr/members/).
+* Conics on the del Pezzo 4-fold with [Kiryong Chung](https://sites.google.com/site/kiryongchung/home) and Bomyeong Kim.
