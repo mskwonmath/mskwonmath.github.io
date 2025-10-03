@@ -6,7 +6,7 @@ description: Selected talks are listed.
 nav: true
 nav_order: 2
 ---
-# 2025
+## 2025
 * Oct. 2, *Complex Geometry Seminar*, IBS Center for Complex Geometry, Daejeon, Korea
 * Sep. 30, *Seminar*, Gyeongsang National University, Jinju, Korea
 * Sep. 23, *Seminar*, Gyeongsang National University, Jinju, Korea
@@ -17,7 +17,7 @@ nav_order: 2
 * Apr. 26, Special Session of *2025 KMS Spring Meeting*, KAIST, Daejeon, Korea
 * Feb. 4, *Workshop on Fano spherical varieties*, Yonsei University, Seoul, Korea
 
-# 2024
+## 2024
 * Oct. 26, Special Session of *2024 KMS Annual Meeting*, Sungkyunkwan University, Suwon, Korea
 * Sep. 25, *Seminar (Algebra and Arithmetic)*, École polytechnique - CMLS, Palaiseau, France
 * Sep. 18, *Seminar (Algebra and geometry)*, Institut Fourier, Grenoble, France
@@ -26,6 +26,6 @@ nav_order: 2
 * Apr. 15, *Workshop on Geometry of Homogeneous Varieties*, IBS Center for Complex Geometry, Daejeon, Korea
 * Feb. 15, *Workshop on Fano spherical varieties*, Gyeongsang National University, Jinju, Korea
 
-# 2023
+## 2023
 * Oct. 27, Special Session of *2023 KMS Annual Meeting*, Seoul National University, Seoul, Korea
 * Aug. 7, *Complex Geometry Seminar*, IBS Center for Complex Geometry, Daejeon, Korea
