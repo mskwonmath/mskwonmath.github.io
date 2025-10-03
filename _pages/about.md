@@ -18,18 +18,13 @@ social: false  # includes social icons at the bottom of the page
 ---
 Welcome to the website of Minseong Kwon (권민성; 權玟成).
 
-Within this year, I will move to Beijing as a postdoctoral researcher at *[Morningside Center of Mathematics](http://www.mcm.ac.cn)* in *[Chinese Academy of Sciences](http://english.cas.cn)*.
+I will soon move to Beijing as a postdoctoral researcher at [Morningside Center of Mathematics](http://www.mcm.ac.cn) in [Chinese Academy of Sciences](http://english.cas.cn).
 
-I received my *[Ph.D.](https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=1142956&se=t0&ty=B&_csrf=6dc13d2d-1248-420e-93f0-e0c521a654ac&abstrView=y)* from *[KAIST](https://mathsci.kaist.ac.kr/)* in August 2025, under the supervision of *[Jun-Muk Hwang (황준묵)](https://www.ibs.re.kr/eng/sub02_02_03.do)*. In September 2025, I worked as a postdoctral researcher at *[Gyeongsang National University (경상국립대학교)](https://www.gnu.ac.kr/math/main.do)*, mentored by *[Kyeong-Dong Park (박경동)](https://sites.google.com/view/kdpark)*.
+I received my Ph.D from [KAIST](https://mathsci.kaist.ac.kr/) in August 2025, under the supervision of [Jun-Muk Hwang (황준묵)](https://www.ibs.re.kr/eng/sub02_02_03.do). In September 2025, I worked as a postdoctral researcher at [Gyeongsang National University (경상국립대학교)](https://www.gnu.ac.kr/math/main.do), mentored by [Kyeong-Dong Park (박경동)](https://sites.google.com/view/kdpark).
 
 My research focuses on Lie-theoretic methods in complex geometry and in algebraic geometry. Nowadays I am working on the following subjects:
 * Legendrian submanifolds of complex contact manifolds;
 * rational curves on projective manifolds; and
 * spherical varieties.
 
-The following papers are now in preparation:
-* Conics on rational homogeneous spaces with *[Nicolas Perrin](https://perso.pages.math.cnrs.fr/users/nicolas.perrin/)*.
-* Automorphisms of horospherical varieties with *[Lorenzo Barban](https://sites.google.com/view/lorenzobarban/)* and *[DongSeon Hwang (황동선)](https://ccg.ibs.re.kr/members/)*.
-* Conics on the del Pezzo 4-fold with *[Kiryong Chung](https://sites.google.com/site/kiryongchung/home)* and Bomyeong Kim.
-
-Here is *<a href="assets/pdf/Curriculum_Vitae_Minseong_Kwon.pdf" target="_blank">my curriculum vitae</a>*.
+Here is <a href="assets/pdf/Curriculum_Vitae_Minseong_Kwon.pdf" target="_blank">my curriculum vitae</a>.
