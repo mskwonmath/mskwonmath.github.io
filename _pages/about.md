@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: bnt2*8*_at_kaist.ac.kr (Replace the stars by 0 to get my e-mail address)
+subtitle: (my first name)_at_amss.ac.cn
 
 profile:
   align: right
@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 Welcome to the website of Minseong Kwon (권민성; 權玟成).
 
-I will soon move to Beijing as a postdoctoral researcher at [Morningside Center of Mathematics](http://www.mcm.ac.cn) in [Chinese Academy of Sciences](http://english.cas.cn).
+I am a postdoctoral researcher at [Morningside Center of Mathematics](http://www.mcm.ac.cn) in AMSS, CAS. My research mentor is [Baohua Fu (付保华)](http://www.math.ac.cn/people/fbh/).
 
 I received my Ph.D from [KAIST](https://mathsci.kaist.ac.kr/) in August 2025, under the supervision of [Jun-Muk Hwang (황준묵)](https://www.ibs.re.kr/eng/sub02_02_03.do). In September 2025, I worked as a postdoctral researcher at [Gyeongsang National University (경상국립대학교)](https://www.gnu.ac.kr/math/main.do), mentored by [Kyeong-Dong Park (박경동)](https://sites.google.com/view/kdpark).
 
