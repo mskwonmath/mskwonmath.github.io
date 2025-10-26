@@ -1,11 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: Short CV
+title: CV
 nav: true
 nav_order: 3
-cv_pdf: Curriculum_Vitae_Minseong_Kwon.pdf
-description: This is my short CV. Full version is attached as a PDF file.
+cv_pdf:
+description: This is my short CV. A complete version is available upon request.
 toc:
   sidebar: left
 ---
