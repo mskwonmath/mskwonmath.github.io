@@ -26,5 +26,3 @@ My research focuses on Lie-theoretic methods in complex geometry and in algebrai
 * Legendrian submanifolds of complex contact manifolds;
 * rational curves on projective manifolds; and
 * spherical varieties.
-
-Here is <a href="assets/pdf/Curriculum_Vitae_Minseong_Kwon.pdf" target="_blank">my curriculum vitae</a>.
