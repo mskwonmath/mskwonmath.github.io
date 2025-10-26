@@ -7,8 +7,6 @@
       value: 권민성 (權玟成)
     - name: E-mail
       value: (my first name)_at_amss.ac.cn
-    - name: G-mail
-      value: ms(my family name)math_at_gmail.com
     - name: Related Websites
       value: <a href="https://orcid.org/0009-0009-6567-3090">ORCID</a>, <a href="https://arxiv.org/a/0009-0009-6567-3090.html">arXiv</a>
 
@@ -21,7 +19,7 @@
       
     - title: Postdoctoral Researcher
       institution: <a href="https://www.gnu.ac.kr/math/main.do">Gyeongsang National University</a>, Jinju, Korea
-      year: 2025.09
+      year: 2025.09-2025.09
 
     - title: Student Research Assistant
       institution: <a href="https://ccg.ibs.re.kr/">Center for Complex Geometry</a> (in IBS), Daejeon, Korea
