@@ -7,9 +7,11 @@ nav: true
 nav_order: 1
 ---
 
-## Publications
-1. Minseong Kwon, *Parameter Spaces of Conics in Adjoint Varieties and Luna-Vust Theory*, Ph.D. Thesis, [KAIST](https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=1142956&se=t0&ty=B&_csrf=6574c1ac-5478-454e-95b7-cf69652264c1), August 2025.
+## Thesis
+* Minseong Kwon, *Parameter Spaces of Conics in Adjoint Varieties and Luna-Vust Theory*, Ph.D. Thesis, [KAIST](https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=1142956&se=t0&ty=B&_csrf=6574c1ac-5478-454e-95b7-cf69652264c1), August 2025.
 
+## Publications
+*
 
 ## Preprints
 * Minseong Kwon and [Haesong Seo](https://sites.google.com/view/haesongseo/home), *Algebraic hyperbolicity of adjoint linear systems on spherical varieties*, 2025, [arXiv:2508.09414](https://arxiv.org/abs/2508.09414).
