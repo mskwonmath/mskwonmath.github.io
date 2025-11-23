@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 ---
 ## 2025
+* Nov. 20, *Workshop of Classical Moduli Theory and its Related Topics*, Kyungpook National University, Daegu, Korea
 * Oct. 2, *Complex Geometry Seminar*, IBS Center for Complex Geometry, Daejeon, Korea
 * Sep. 22, *PNU Geometry and Topology Seminar*, Pusan National University, Busan, Korea
 * Aug. 21-22, Sep. 23 and Sep. 30, *Seminar*, Gyeongsang National University, Jinju, Korea
