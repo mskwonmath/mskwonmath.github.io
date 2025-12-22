@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 ---
 ## 2025
+* Dec. 22, *2025 Symposium in Algebraic Geometry*, Busan, Korea
 * Nov. 20, *Workshop of Classical Moduli Theory and its Related Topics*, Kyungpook National University, Daegu, Korea
 * Oct. 2, *Complex Geometry Seminar*, IBS Center for Complex Geometry, Daejeon, Korea
 * Sep. 22, *PNU Geometry and Topology Seminar*, Pusan National University, Busan, Korea
