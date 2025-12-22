@@ -8,7 +8,7 @@ nav_order: 1
 ---
 
 ## Thesis
-* Minseong Kwon, *Parameter Spaces of Conics in Adjoint Varieties and Luna-Vust Theory*, Ph.D. Thesis, [KAIST](https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=1142956&se=t0&ty=B&_csrf=6574c1ac-5478-454e-95b7-cf69652264c1), August 2025. ([pdf](assets/pdf/Thesis_draft.pdf))
+* Minseong Kwon, *Parameter Spaces of Conics in Adjoint Varieties and Luna-Vust Theory*, Ph.D. Thesis, [KAIST](https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=1142956&se=t0&ty=B&_csrf=6574c1ac-5478-454e-95b7-cf69652264c1), August 2025. ([pdf](https://mskwonmath.github.io/assets/pdf/Thesis_draft.pdf))
 
 ## Publications
 * ...
