@@ -8,16 +8,16 @@ nav_order: 1
 ---
 
 ## Thesis
-* Minseong Kwon, *Parameter Spaces of Conics in Adjoint Varieties and Luna-Vust Theory*, Ph.D. Thesis, [KAIST](https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=1142956&se=t0&ty=B&_csrf=6574c1ac-5478-454e-95b7-cf69652264c1), August 2025. ([pdf](https://mskwonmath.github.io/assets/pdf/Thesis_draft.pdf))
+* *Parameter Spaces of Conics in Adjoint Varieties and Luna-Vust Theory*, Ph.D. Thesis, [KAIST](https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=1142956&se=t0&ty=B&_csrf=6574c1ac-5478-454e-95b7-cf69652264c1), August 2025. ([pdf](https://mskwonmath.github.io/assets/pdf/Thesis_draft.pdf))
 
 ## Publications
 * ...
 
 ## Preprints
 All submitted for publication
-* Minseong Kwon and [Haesong Seo](https://sites.google.com/view/haesongseo/home), *Algebraic hyperbolicity of adjoint linear systems on spherical varieties*, 2025, [arXiv:2508.09414](https://arxiv.org/abs/2508.09414).
-* Minseong Kwon, *Classification of Equivariant Legendrian Embeddings of Rational Homogeneous Spaces into Nilpotent Orbits*, 2025, [arXiv:2507.03932](https://arxiv.org/abs/2507.03932).
-* Minseong Kwon, *Spherical Geometry of Hilbert Schemes of Conics in Adjoint Varieties*, 2023, [arXiv:2309.13935](https://arxiv.org/abs/2309.13935).
+* *Algebraic hyperbolicity of adjoint linear systems on spherical varieties*, coauthored with [Haesong Seo](https://sites.google.com/view/haesongseo/home), 2025, [arXiv:2508.09414](https://arxiv.org/abs/2508.09414).
+* *Classification of Equivariant Legendrian Embeddings of Rational Homogeneous Spaces into Nilpotent Orbits*, 2025, [arXiv:2507.03932](https://arxiv.org/abs/2507.03932).
+* *Spherical Geometry of Hilbert Schemes of Conics in Adjoint Varieties*, 2023, [arXiv:2309.13935](https://arxiv.org/abs/2309.13935).
 
 ## In Preparation
 \* Preprints available upon request
