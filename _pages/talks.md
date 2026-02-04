@@ -6,6 +6,9 @@ description: Selected talks are listed.
 nav: true
 nav_order: 2
 ---
+## 2026
+* Feb. 4, *Workshop on Fano spherical varieties*, Gyeongsang National University, Jinju, Korea
+
 ## 2025
 * Dec. 22, *2025 Symposium in Algebraic Geometry*, Busan, Korea
 * Nov. 20, *Workshop of Classical Moduli Theory and its Related Topics*, Kyungpook National University, Daegu, Korea
@@ -28,4 +31,3 @@ nav_order: 2
 
 ## 2023
 * Oct. 27, Special Session of *2023 KMS Annual Meeting*, Seoul National University, Seoul, Korea
-* Aug. 7, *Complex Geometry Seminar*, IBS Center for Complex Geometry, Daejeon, Korea
