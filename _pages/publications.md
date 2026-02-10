@@ -11,17 +11,14 @@ nav_order: 1
 * *Parameter Spaces of Conics in Adjoint Varieties and Luna-Vust Theory*, Ph.D. Thesis, [KAIST](https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=1142956&se=t0&ty=B&_csrf=6574c1ac-5478-454e-95b7-cf69652264c1), August 2025. ([pdf](https://mskwonmath.github.io/assets/pdf/Thesis_draft.pdf))
 
 ## Publications
-* ...
+* *Classification of Equivariant Legendrian Embeddings of Rational Homogeneous Spaces into Nilpotent Orbits*, to appear in Math. Z., [arXiv:2507.03932](https://arxiv.org/abs/2507.03932).
 
 ## Preprints
-All submitted for publication
-* *Algebraic hyperbolicity of adjoint linear systems on spherical varieties*, coauthored with [Haesong Seo](https://sites.google.com/view/haesongseo/home), 2025, [arXiv:2508.09414](https://arxiv.org/abs/2508.09414).
-* *Classification of Equivariant Legendrian Embeddings of Rational Homogeneous Spaces into Nilpotent Orbits*, 2025, [arXiv:2507.03932](https://arxiv.org/abs/2507.03932).
+* *Automorphism groups of toroidal horospherical varieties* with [Lorenzo Barban](https://sites.google.com/view/lorenzobarban/) and [DongSeon Hwang](https://ccg.ibs.re.kr/members/), 2026, [arXiv:2602.07879](https://arxiv.org/abs/2602.07879).
+* *Local structure of the Hilbert scheme of conics in quintic del Pezzo varieties* with [Kiryong Chung](https://sites.google.com/site/kiryongchung/home) and Bomyeong Kim, 2025, [arXiv:2512.06670](https://arxiv.org/abs/2512.06670).
+* *Algebraic hyperbolicity of adjoint linear systems on spherical varieties* with [Haesong Seo](https://sites.google.com/view/haesongseo/home), 2025, [arXiv:2508.09414](https://arxiv.org/abs/2508.09414).
 * *Spherical Geometry of Hilbert Schemes of Conics in Adjoint Varieties*, 2023, [arXiv:2309.13935](https://arxiv.org/abs/2309.13935).
 
 ## In Preparation
-\* Preprints available upon request
-* Conics on rational homogeneous spaces\* with [Nicolas Perrin](https://perso.pages.math.cnrs.fr/users/nicolas.perrin/).
-* Automorphisms of horospherical varieties\* with [Lorenzo Barban](https://sites.google.com/view/lorenzobarban/) and [DongSeon Hwang](https://ccg.ibs.re.kr/members/).
-* Conics on the del Pezzo 4-fold\* with [Kiryong Chung](https://sites.google.com/site/kiryongchung/home) and Bomyeong Kim, [arXiv:2512.06670](https://arxiv.org/abs/2512.06670).
+* Conics on rational homogeneous spaces with [Nicolas Perrin](https://perso.pages.math.cnrs.fr/users/nicolas.perrin/).
 * Algebraic EDS with [Philippe Eyssidieux](https://www-fourier.univ-grenoble-alpes.fr/%7Eeyssi/).
