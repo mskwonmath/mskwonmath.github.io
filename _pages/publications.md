@@ -11,7 +11,7 @@ nav_order: 1
 * *Parameter Spaces of Conics in Adjoint Varieties and Luna-Vust Theory*, Ph.D. Thesis, [KAIST](https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=1142956&se=t0&ty=B&_csrf=6574c1ac-5478-454e-95b7-cf69652264c1), August 2025. ([pdf](https://mskwonmath.github.io/assets/pdf/Thesis_draft.pdf))
 
 ## Publications
-* *Classification of Equivariant Legendrian Embeddings of Rational Homogeneous Spaces into Nilpotent Orbits*, to appear in Math. Z., [arXiv:2507.03932](https://arxiv.org/abs/2507.03932).
+* Classification of equivariant Legendrian embeddings of rational homogeneous spaces into nilpotent orbits. *Math. Z.* **312**, 90 (2026). 
 
 ## Preprints
 * *Automorphism groups of toroidal horospherical varieties* with [Lorenzo Barban](https://sites.google.com/view/lorenzobarban/) and [DongSeon Hwang](https://ccg.ibs.re.kr/members/), 2026, [arXiv:2602.07879](https://arxiv.org/abs/2602.07879).
