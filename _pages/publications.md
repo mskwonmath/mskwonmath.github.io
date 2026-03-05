@@ -8,15 +8,15 @@ nav_order: 1
 ---
 
 ## Thesis
-* *Parameter Spaces of Conics in Adjoint Varieties and Luna-Vust Theory*, Ph.D. Thesis, [KAIST](https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=1142956&se=t0&ty=B&_csrf=6574c1ac-5478-454e-95b7-cf69652264c1), August 2025. ([pdf](https://mskwonmath.github.io/assets/pdf/Thesis_draft.pdf))
+* *Parameter Spaces of Conics in Adjoint Varieties and Luna-Vust Theory*, Ph.D. Thesis, KAIST, August 2025. ([KAIST Library](https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=1142956&se=t0&ty=B&_csrf=6574c1ac-5478-454e-95b7-cf69652264c1), [pdf](https://mskwonmath.github.io/assets/pdf/Thesis_draft.pdf))
 
 ## Publications
-* Classification of equivariant Legendrian embeddings of rational homogeneous spaces into nilpotent orbits. *Math. Z.* **312**, 90 (2026). 
+* *Algebraic hyperbolicity of adjoint linear systems on spherical varieties* with [Haesong Seo](https://sites.google.com/view/haesongseo/home), to appear in IMRN, [arXiv:2508.09414](https://arxiv.org/abs/2508.09414).
+* *Classification of equivariant Legendrian embeddings of rational homogeneous spaces into nilpotent orbits*. *Math. Z.* 312, 90 (2026). [DOI:10.1007/s00209-026-03987-9](https://doi.org/10.1007/s00209-026-03987-9).
 
 ## Preprints
 * *Automorphism groups of toroidal horospherical varieties* with [Lorenzo Barban](https://sites.google.com/view/lorenzobarban/) and [DongSeon Hwang](https://ccg.ibs.re.kr/members/), 2026, [arXiv:2602.07879](https://arxiv.org/abs/2602.07879).
 * *Local structure of the Hilbert scheme of conics in quintic del Pezzo varieties* with [Kiryong Chung](https://sites.google.com/site/kiryongchung/home) and Bomyeong Kim, 2025, [arXiv:2512.06670](https://arxiv.org/abs/2512.06670).
-* *Algebraic hyperbolicity of adjoint linear systems on spherical varieties* with [Haesong Seo](https://sites.google.com/view/haesongseo/home), 2025, [arXiv:2508.09414](https://arxiv.org/abs/2508.09414).
 * *Spherical Geometry of Hilbert Schemes of Conics in Adjoint Varieties*, 2023, [arXiv:2309.13935](https://arxiv.org/abs/2309.13935).
 
 ## In Preparation
