@@ -11,7 +11,7 @@ nav_order: 1
 * *Parameter Spaces of Conics in Adjoint Varieties and Luna-Vust Theory*, Ph.D. Thesis, KAIST, August 2025. ([KAIST Library](https://library.kaist.ac.kr/search/ctlgSearch/posesn/view.do?bibctrlno=1142956&se=t0&ty=B&_csrf=6574c1ac-5478-454e-95b7-cf69652264c1), [pdf](https://mskwonmath.github.io/assets/pdf/Thesis_draft.pdf))
 
 ## Publications
-* *Algebraic hyperbolicity of adjoint linear systems on spherical varieties* with [Haesong Seo](https://sites.google.com/view/haesongseo/home), to appear in IMRN, [arXiv:2508.09414](https://arxiv.org/abs/2508.09414).
+* *Algebraic hyperbolicity of adjoint linear systems on spherical varieties* with [Haesong Seo](https://sites.google.com/view/haesongseo/home), *International Mathematics Research Notices* (IMRN), Volume 2026, Issue 6, March 2026, rnag051, [DOI:10.1093/imrn/rnag051](https://doi.org/10.1093/imrn/rnag051).
 * *Classification of equivariant Legendrian embeddings of rational homogeneous spaces into nilpotent orbits*. *Math. Z.* 312, 90 (2026). [DOI:10.1007/s00209-026-03987-9](https://doi.org/10.1007/s00209-026-03987-9).
 
 ## Preprints
