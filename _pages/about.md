@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 Welcome to the website of Minseong Kwon (권민성; 權玟成).
 
-I am a postdoctoral researcher at [Morningside Center of Mathematics](http://www.mcm.ac.cn) in [Academy of Mathematics and Systems Science](www.amss.ac.cn), Chinese Academy of Sciences. My research mentor is [Baohua Fu (付保华)](www.mcm.ac.cn/people/members/).
+I am a postdoctoral researcher at [Morningside Center of Mathematics](http://www.mcm.ac.cn) in Chinese Academy of Sciences. My research mentor is [Baohua Fu (付保华)](www.mcm.ac.cn/people/members/).
 
 I received my Ph.D. from [KAIST](https://mathsci.kaist.ac.kr/) in August 2025, under the supervision of [Jun-Muk Hwang (황준묵)](https://www.ibs.re.kr/eng/sub02_02_03.do). In September 2025, I worked as a postdoctral researcher at [Gyeongsang National University](https://www.gnu.ac.kr/math/main.do), mentored by [Kyeong-Dong Park (박경동)](https://sites.google.com/view/kdpark).
 
