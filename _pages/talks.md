@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 ---
 ## 2026
+* Apr. 12, Algebra session of *the third Jingjinji conference*, Capital Normal University, Beijing, China
 * Feb. 24, *Algebraic Geometry Seminar*, KIAS, Seoul, Korea
 * Feb. 4, *Workshop on Fano spherical varieties*, Gyeongsang National University, Jinju, Korea
 
